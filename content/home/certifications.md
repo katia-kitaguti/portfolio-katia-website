@@ -7,7 +7,7 @@ widget: accomplishments
 headless: true
 
 # Order that this section appears on the page.
-weight: 40
+weight: 50
 
 title: Certifications
 # subtitle:
@@ -35,6 +35,6 @@ item:
 #   date_start: '2020-01-01'
 #   certificate_url: https://basno.com/9yiolpk2
 
-# design:
-#   columns: '1'
+design:
+  columns: '1'
 ---
