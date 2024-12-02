@@ -7,7 +7,7 @@ widget: accomplishments
 headless: true
 
 # Order that this section appears on the page.
-weight: 50
+weight: 40
 
 title: Certifications
 # subtitle:
@@ -25,7 +25,7 @@ item:
 - title: IBM Data Science Professional Certificate
   organization: IBM
   organization_url: https://www.coursera.org/professional-certificates/ibm-data-science
-  organization_logo: aws_logo
+  organization_logo: ibm_logo
   date_start: '2024-08-01'
   certificate_url: https://www.coursera.org/account/accomplishments/specialization/SAR3AGKGIVAU
 
