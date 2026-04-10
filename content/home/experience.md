@@ -23,12 +23,24 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: Data Analyst
+    company: Stacktics
+    company_url: 'https://stacktics.com/'
+    company_logo: stacktics_logo
+    location: Toronto, Ontario
+    date_start: '2025-04-01'
+    date_end: '2025-12-01'
+    description: |2-
+      * Developed AI-powered solutions using Large Language Models on Vertex AI, implementing prompt engineering for context-aware recommendations that enhanced user experience;
+      * Applied causal inference and Bayesian modeling to develop marketing mix models (MMM) for 2 major retail companies, quantifying marketing channel impact to optimize spend allocation across channels;
+      * Leveraged BigQuery for large-scale data processing and Vertex AI for end-to-end ML pipeline management in production environments, collaborating with cross-functional teams using Python, SQL, and agile methodologies.
+
+  - title: Data Analyst
     company: Qive
     company_url: 'https://qive.com.br/'
     company_logo: qive
     location: Brazil (Remote)
     date_start: '2021-11-01'
-    date_end: ''
+    date_end: '2025-03-01'
     description: |2-        
         * Manipulate large datasets to conduct ad-hoc and in-depth analyses, to provide strategic and actionable insights to executive-level audiences;
         * Provide metrics and dashboards which empowered different areas to monitor the customer engagement on product, refraining companies from churning and preventing a loss of BRL 140K MRR;

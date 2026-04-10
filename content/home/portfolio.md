@@ -34,6 +34,8 @@ content:
     #   tag: NLP
     - name: Data Visualization
       tag: DV
+    - name: Analytics Engineering
+      tag: AE
 
 design:
   columns: '1'
