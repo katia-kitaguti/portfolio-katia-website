@@ -29,6 +29,13 @@ item:
   date_start: '2024-08-01'
   certificate_url: https://www.coursera.org/account/accomplishments/specialization/SAR3AGKGIVAU
 
+- title: dbt Fundamentals
+  organization: dbt Labs
+  organization_url: https://www.getdbt.com/
+  organization_logo: dbt-logo
+  date_start: '2025-02-03'
+  certificate_url: https://credentials.getdbt.com/464c0c7b-3f59-4269-a4eb-fa67c5fd4717
+
 # - title: CFA Level I
 #   organization: CFA Institute
 #   organization_url: 'https://www.cfainstitute.org/'
